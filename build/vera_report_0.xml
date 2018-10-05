@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vera>
+    <file name="/home/p/Documents/GitHub/stmApp/Usart1.h">
+        <report rule="T002" line="16">![CDATA[reserved name used for macro (incorrect use of underscore)]]</report>
+        <report rule="T002" line="17">![CDATA[reserved name used for macro (incorrect use of underscore)]]</report>
+        <report rule="L004" line="18">![CDATA[line is longer than 100 characters]]</report>
+        <report rule="T002" line="18">![CDATA[reserved name used for macro (incorrect use of underscore)]]</report>
+        <report rule="L004" line="19">![CDATA[line is longer than 100 characters]]</report>
+        <report rule="T002" line="19">![CDATA[reserved name used for macro (incorrect use of underscore)]]</report>
+    </file>
+</vera>

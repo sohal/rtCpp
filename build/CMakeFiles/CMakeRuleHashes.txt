@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+9a77d84dfceeea2bb3d03313be48f5de CMakeFiles/debug
+ef92acb6582036f3628e918bb93cdda1 CMakeFiles/debug-server
+6e526a9311f1754552eda2ba2ce3b3c3 CMakeFiles/erase
+30ecc744eb2c2f0d99741b982d8c6b4a CMakeFiles/flash
+6e5a15ba0e61b4dfc788fef19efc8693 CMakeFiles/style
+6e5a15ba0e61b4dfc788fef19efc8693 CMakeFiles/style_reports
+7807f8bcd4a074aa8ebff399f03cafd4 vera_noreport_0.xml
+43cf3d5d17d20c24f8d92b4e235f57d5 vera_report_0.xml
