@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Cmake default build folder
+B[b]uild
