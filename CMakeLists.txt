@@ -14,23 +14,11 @@ set (CMAKE_EXECUTABLE_SUFFIX ".elf")
 
 # Sources created by me
 set ( BOOT_SRCS
-    "${CMAKE_SOURCE_DIR}/main.c"
-    "${CMAKE_SOURCE_DIR}/BSP.c"
-    "${CMAKE_SOURCE_DIR}/Can.c"
-    "${CMAKE_SOURCE_DIR}/CRC.c"
-    "${CMAKE_SOURCE_DIR}/Flash.c"
-    "${CMAKE_SOURCE_DIR}/Protocol.c"
-    "${CMAKE_SOURCE_DIR}/Spi1.c"
-    "${CMAKE_SOURCE_DIR}/Usart1.c"
+    "${CMAKE_SOURCE_DIR}/src/p1.cpp"
 )
+
 set ( BOOT_INCS
-    "${CMAKE_SOURCE_DIR}/BSP.h"
-    "${CMAKE_SOURCE_DIR}/Can.h"
-    "${CMAKE_SOURCE_DIR}/CRC.h"
-    "${CMAKE_SOURCE_DIR}/Flash.h"
-    "${CMAKE_SOURCE_DIR}/Protocol.h"
-    "${CMAKE_SOURCE_DIR}/Spi1.h"
-    "${CMAKE_SOURCE_DIR}/Usart1.h"
+    "${CMAKE_SOURCE_DIR}/inc/p1.h"
 )
 # All source files to be compiled along with startup code
 set ( SOURCES 
