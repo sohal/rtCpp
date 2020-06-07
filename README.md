@@ -4,7 +4,7 @@ STM32F0xx Development using VSCode on Linux
 
 ## Requirements
 - STMCube for configuration
-- vera++ 1.3.0 for source code regulations
+- vera++ 1.3.0 for source code regulations _SEE SEPARATE DEPENDENCIES OF VERA_
 - gcc-arm-none-eabi 
 
 See travis config of how the build works
